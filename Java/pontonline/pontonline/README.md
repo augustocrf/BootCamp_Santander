@@ -10,7 +10,7 @@ Construindo um sistema de controle de ponto e acesso com Spring Boot:
 * Swagger
   > ```http://localhost:8080/swagger-ui.html ```
 
-![Image of Swagger](https://github.com/augustocrf/BootCamp_Santander/tree/master/Java/pontonline/pontonline/swaggerPontonLine.png)
+  ![Image Swagger](https://github.com/augustocrf/BootCamp_Santander/blob/master/Java/pontonline/pontonline/swaggerPontonLine.png)
 
 Java | Gradle |Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger | h2 | PostMan
 
@@ -21,6 +21,7 @@ Java | Gradle |Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger | h2
 * [Swagger: API Documentation & Design Tools for Teams](https://swagger.io/)
 * [Project Lombok](https://projectlombok.org/)
 * [Hibernate](https://hibernate.org/)
+* [String Initializr](https://start.spring.io/)
 
 ### Links Adicionais
 
