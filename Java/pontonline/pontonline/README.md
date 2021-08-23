@@ -1,7 +1,7 @@
 # Projeto DIO - API REST - PontonLine
 Construindo um sistema de controle de ponto e acesso com Spring Boot:
 
-Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
+Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger | h2 | PostMan
 
 * [Java | Oracle](https://www.java.com/pt-BR/)
 * [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
@@ -14,3 +14,4 @@ Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
 ### Links Adicionais
 
 * [Digital Innovation One](https://digitalinnovation.one/)
+* [ Maven Repository - Artifact](https://mvnrepository.com)

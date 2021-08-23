@@ -22,19 +22,19 @@ public class CalendarioService {
         return calendarioRepository.save(calendario);
     }
 
-    public List<Calendario> findAll() {
-        return calendarioRepository.findAll();
-    }
-
-    public Optional<Calendario> findByID(Long id) {
-        return calendarioRepository.findById(id);
-    }
-
     public Calendario update(Calendario calendario) {
         return calendarioRepository.save(calendario);
     }
 
     public void delete(Long id) throws Exception {
         calendarioRepository.deleteById(id);
+    }
+
+    public List<Calendario> findAll() {
+        return calendarioRepository.findAll();
+    }
+
+    public Optional<Calendario> findByID(Long id) {
+        return calendarioRepository.findById(id);
     }
 }
